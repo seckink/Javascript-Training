@@ -1,0 +1,19 @@
+[
+
+    {
+        "name":"Seckin",
+        "age":34,
+        "department":"Agile"
+    },
+    {
+        "name":"Fethi",
+        "age":25,
+        "department":"Agile"
+    },
+    {
+        "name":"Hilal",
+        "age":34,
+        "department":"Agile"
+    }
+
+]
